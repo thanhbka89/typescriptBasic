@@ -1,0 +1,6 @@
+- Install Atom, VSCode, VS2015
+- If install Atom, install package atom-typescript
+- Create folder Project
+- Create file *.ts add code logic
+- Custom file tsconfig.json
+- Ctrl+S to compile into *.js
